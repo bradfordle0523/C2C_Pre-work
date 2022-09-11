@@ -1,0 +1,2 @@
+Hey! My name is ChattyChatter, and I'm a chat bot to... guess what... chat with you!
+Well now that I have all your info %s, we can finally start chatting.

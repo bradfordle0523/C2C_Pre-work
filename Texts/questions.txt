@@ -1,0 +1,7 @@
+What's your favorite movie?
+%s is my favorite movie too.
+What about your favorite hobby?
+Back in the day I used to love %s until THE ACCIDENT...
+
+And finally favorite subject?
+I hate %s. My teacher ruined it for it me back in my highschool days.

@@ -1,0 +1,4 @@
+What's your name?
+Dude or Dudette?
+How old are you?
+Where do you live?
