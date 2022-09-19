@@ -12,6 +12,7 @@ Run this command to execute the application:
 
 `python filename.py`
 
- conflict added
+
+ conflict added with other conflict
 
 ```
